@@ -7,6 +7,6 @@
   "libraries": ["lit-html", "Page.js"],
   "testing": ["Mocha", "Chai"]
 };
-- 📧 Email: janetta.doncheva@gmail.com
+- 📧 Email: janettadoncheva@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/janetta-doncheva-b7860822b/
 
