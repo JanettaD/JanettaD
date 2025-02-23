@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Script
 - 🚀 Skills and Technologies:
   {
-  "languagesAndFrameworks": ["HTML", "CSS", "JavaScript"],
+  "languagesAndFrameworks": ["Angular", "JavaScript","TypeScript", "HTML", "CSS"],
   "libraries": ["lit-html", "Page.js"],
   "testing": ["Mocha", "Chai"]
 };
